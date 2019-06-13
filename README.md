@@ -1,0 +1,2 @@
+# comp-py
+CONCORDIA UNIVERSITY | DEPARTMENT OF COMPUTER SCIENCE AND SOFTWARE ENGINEERING | Project | COMP 6411, Summer2019 | The great guessing game in Python
